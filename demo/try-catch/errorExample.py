@@ -5,5 +5,5 @@ def spam() :
 
 def bacon() :
     raise Exception('This is error message.')
-
+ 
 spam()
