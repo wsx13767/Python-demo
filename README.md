@@ -2,8 +2,17 @@
 ## Python 練習
 
 * DEMO
-	* random
+	* random (亂數值硬幣)
 		> python coinFlip.py
+	* mapIt (使用剪貼簿查詢地址)
+		> 先複製一串地址，在執行python mapIt.py
+		> python mapIt.py 地址...
+	* factorial (log設定)
+		> python factorial.py
+	* assert (斷言)
+		> python redgreenlight.py
+	* try-catch (抓取exception)
+		> python errorExample.py
 
 *	*	*	
 	
